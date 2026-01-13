@@ -1,4 +1,4 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8e0fc975-0f07-46f6-a0f5-0e136a2e09ca" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/918e2f8c-8d49-4bcb-92d4-0b05217b09c3" />
 
 # Sharepoint
 Here's a comprehensive 30-day roadmap to become a SharePoint expert:
