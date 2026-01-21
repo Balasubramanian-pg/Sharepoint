@@ -19,4 +19,4 @@ This folder contains the following study materials:
 * [075 Using the ListItemAllFields Shortcut.md](./075%20Using%20the%20ListItemAllFields%20Shortcut.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
