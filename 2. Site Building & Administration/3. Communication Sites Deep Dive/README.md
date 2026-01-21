@@ -9,6 +9,3 @@ This folder contains the following study materials:
 * [38 Communication Site Topic Design.md](./38%20Communication%20Site%20Topic%20Design.md)
 * [39 Communication Site Showcase Design.md](./39%20Communication%20Site%20Showcase%20Design.md)
 * [40 Communication Site Blank Design.md](./40%20Communication%20Site%20Blank%20Design.md)
-
----
-*Last updated by Auto-Indexer*
