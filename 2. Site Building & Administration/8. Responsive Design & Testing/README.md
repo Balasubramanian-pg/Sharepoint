@@ -8,6 +8,3 @@ This folder contains the following study materials:
 * [77 Mobile View Testing.md](./77%20Mobile%20View%20Testing.md)
 * [78 Tablet and Desktop Views.md](./78%20Tablet%20and%20Desktop%20Views.md)
 * [79 Testing Responsive Design.md](./79%20Testing%20Responsive%20Design.md)
-
----
-*Last updated by Auto-Indexer*
