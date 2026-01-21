@@ -7,6 +7,3 @@ This folder contains the following study materials:
 * [07 Modern vs Classic SharePoint.md](./07%20Modern%20vs%20Classic%20SharePoint.md)
 * [08 SharePoint M365 Integration.md](./08%20SharePoint%20M365%20Integration.md)
 * [10 SharePoint Terminology Glossary.md](./10%20SharePoint%20Terminology%20Glossary.md)
-
----
-*Last updated by Auto-Indexer*
