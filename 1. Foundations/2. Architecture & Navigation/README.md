@@ -10,6 +10,3 @@ This folder contains the following study materials:
 * [16 URL Structure and Paths.md](./16%20URL%20Structure%20and%20Paths.md)
 * [17 Team Sites vs Communication Sites.md](./17%20Team%20Sites%20vs%20Communication%20Sites.md)
 * [18 Site Templates and Uses.md](./18%20Site%20Templates%20and%20Uses.md)
-
----
-*Last updated by Auto-Indexer*
