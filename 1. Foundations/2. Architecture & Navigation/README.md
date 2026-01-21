@@ -12,4 +12,4 @@ This folder contains the following study materials:
 * [18 Site Templates and Uses.md](./18%20Site%20Templates%20and%20Uses.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
