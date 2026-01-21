@@ -11,4 +11,4 @@ This folder contains the following study materials:
 * [40 Communication Site Blank Design.md](./40%20Communication%20Site%20Blank%20Design.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
