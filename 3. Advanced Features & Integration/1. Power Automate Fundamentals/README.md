@@ -27,6 +27,3 @@ This folder contains the following study materials:
 * [7. Scheduled Cloud Flows.md](./7.%20Scheduled%20Cloud%20Flows.md)
 * [8. Desktop Flows RPA.md](./8.%20Desktop%20Flows%20RPA.md)
 * [9. Accessing Power Automate from SharePoint.md](./9.%20Accessing%20Power%20Automate%20from%20SharePoint.md)
-
----
-*Last updated by Auto-Indexer*
