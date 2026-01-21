@@ -17,6 +17,3 @@ This folder contains the following study materials:
 * [058 Validating Data before API Submission.md](./058%20Validating%20Data%20before%20API%20Submission.md)
 * [059 Working with Hidden Fields in SharePoint Lists.md](./059%20Working%20with%20Hidden%20Fields%20in%20SharePoint%20Lists.md)
 * [060 API Access to Regional Settings and Timezones.md](./060%20API%20Access%20to%20Regional%20Settings%20and%20Timezones.md)
-
----
-*Last updated by Auto-Indexer*
