@@ -27,6 +27,3 @@ This folder contains the following study materials:
 * [48. Condition Action If Then Else.md](./48.%20Condition%20Action%20If%20Then%20Else.md)
 * [49. Switch Action.md](./49.%20Switch%20Action.md)
 * [50. Complex Conditional Logic.md](./50.%20Complex%20Conditional%20Logic.md)
-
----
-*Last updated by Auto-Indexer*
