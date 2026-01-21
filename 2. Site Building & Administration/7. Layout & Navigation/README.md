@@ -13,4 +13,4 @@ This folder contains the following study materials:
 * [73 Adding Section Backgrounds.md](./73%20Adding%20Section%20Backgrounds.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
