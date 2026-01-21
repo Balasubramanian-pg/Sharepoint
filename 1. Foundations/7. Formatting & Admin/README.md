@@ -6,4 +6,4 @@ This folder contains the following study materials:
 * [50 JSON Column Formatting Basics.md](./50%20JSON%20Column%20Formatting%20Basics.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
