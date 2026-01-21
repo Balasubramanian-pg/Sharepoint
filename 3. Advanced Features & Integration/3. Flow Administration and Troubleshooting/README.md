@@ -17,6 +17,3 @@ This folder contains the following study materials:
 * [63. Performance Optimization.md](./63.%20Performance%20Optimization.md)
 * [64. Filter at Source ODATA.md](./64.%20Filter%20at%20Source%20ODATA.md)
 * [65. Flow Best Practices.md](./65.%20Flow%20Best%20Practices.md)
-
----
-*Last updated by Auto-Indexer*
