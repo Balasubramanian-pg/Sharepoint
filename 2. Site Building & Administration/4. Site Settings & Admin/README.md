@@ -20,4 +20,4 @@ This folder contains the following study materials:
 * [30 Activating and Deactivating Features.md](./30%20Activating%20and%20Deactivating%20Features.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
