@@ -9,4 +9,4 @@ This folder contains the following study materials:
 * [09 Team Site Default Components.md](./09%20Team%20Site%20Default%20Components.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
