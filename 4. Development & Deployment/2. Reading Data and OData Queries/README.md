@@ -17,6 +17,3 @@ This folder contains the following study materials:
 * [028 Handling Reserved Characters in Query Strings.md](./028%20Handling%20Reserved%20Characters%20in%20Query%20Strings.md)
 * [029 Using $filter with Boolean Fields.md](./029%20Using%20%24filter%20with%20Boolean%20Fields.md)
 * [030 Case Sensitivity in REST API Queries.md](./030%20Case%20Sensitivity%20in%20REST%20API%20Queries.md)
-
----
-*Last updated by Auto-Indexer*
