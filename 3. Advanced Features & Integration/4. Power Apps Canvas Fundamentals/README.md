@@ -32,6 +32,3 @@ This folder contains the following study materials:
 * [68. Canvas Apps Overview.md](./68.%20Canvas%20Apps%20Overview.md)
 * [69. Model Driven Apps Overview.md](./69.%20Model%20Driven%20Apps%20Overview.md)
 * [70. SharePoint Forms Customization.md](./70.%20SharePoint%20Forms%20Customization.md)
-
----
-*Last updated by Auto-Indexer*
