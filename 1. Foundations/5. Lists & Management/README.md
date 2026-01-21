@@ -12,4 +12,4 @@ This folder contains the following study materials:
 * [43 Filtering Grouping Sorting.md](./43%20Filtering%20Grouping%20Sorting.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
