@@ -11,6 +11,3 @@ This folder contains the following study materials:
 * [71 Footer Components and Links.md](./71%20Footer%20Components%20and%20Links.md)
 * [72 Page Background and Section Styling.md](./72%20Page%20Background%20and%20Section%20Styling.md)
 * [73 Adding Section Backgrounds.md](./73%20Adding%20Section%20Backgrounds.md)
-
----
-*Last updated by Auto-Indexer*
