@@ -22,6 +22,3 @@ This folder contains the following study materials:
 * [53 PnP Provisioning Templates.md](./53%20PnP%20Provisioning%20Templates.md)
 * [54 Using PnP PowerShell.md](./54%20Using%20PnP%20PowerShell.md)
 * [55 Site Template Strategy and Governance.md](./55%20Site%20Template%20Strategy%20and%20Governance.md)
-
----
-*Last updated by Auto-Indexer*
