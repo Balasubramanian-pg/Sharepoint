@@ -12,6 +12,3 @@ This folder contains the following study materials:
 * [26 Security Best Practices.md](./26%20Security%20Best%20Practices.md)
 * [27 Auditing Permissions.md](./27%20Auditing%20Permissions.md)
 * [28 Guest Access and External Sharing.md](./28%20Guest%20Access%20and%20External%20Sharing.md)
-
----
-*Last updated by Auto-Indexer*
