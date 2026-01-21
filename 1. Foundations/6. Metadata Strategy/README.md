@@ -8,6 +8,3 @@ This folder contains the following study materials:
 * [47 Content Type Hierarchy.md](./47%20Content%20Type%20Hierarchy.md)
 * [48 Adding Content Types to Libraries.md](./48%20Adding%20Content%20Types%20to%20Libraries.md)
 * [49 Metadata Strategy.md](./49%20Metadata%20Strategy.md)
-
----
-*Last updated by Auto-Indexer*
