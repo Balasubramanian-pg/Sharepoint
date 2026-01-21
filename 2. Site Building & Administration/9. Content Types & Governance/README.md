@@ -21,6 +21,3 @@ This folder contains the following study materials:
 * [97 Using Content Types in Libraries.md](./97%20Using%20Content%20Types%20in%20Libraries.md)
 * [98 Content Type Workflows.md](./98%20Content%20Type%20Workflows.md)
 * [99 Information Management Policies.md](./99%20Information%20Management%20Policies.md)
-
----
-*Last updated by Auto-Indexer*
