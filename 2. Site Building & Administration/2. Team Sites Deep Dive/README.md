@@ -7,6 +7,3 @@ This folder contains the following study materials:
 * [06 Site Privacy Settings.md](./06%20Site%20Privacy%20Settings.md)
 * [08 Microsoft 365 Group Integration.md](./08%20Microsoft%20365%20Group%20Integration.md)
 * [09 Team Site Default Components.md](./09%20Team%20Site%20Default%20Components.md)
-
----
-*Last updated by Auto-Indexer*
