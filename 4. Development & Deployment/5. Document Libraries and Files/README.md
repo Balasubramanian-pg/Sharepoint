@@ -17,6 +17,3 @@ This folder contains the following study materials:
 * [073 Retrieving Folder Hierarchy Recursively.md](./073%20Retrieving%20Folder%20Hierarchy%20Recursively.md)
 * [074 Handling File Name Restrictions.md](./074%20Handling%20File%20Name%20Restrictions.md)
 * [075 Using the ListItemAllFields Shortcut.md](./075%20Using%20the%20ListItemAllFields%20Shortcut.md)
-
----
-*Last updated by Auto-Indexer*
