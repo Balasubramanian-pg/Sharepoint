@@ -17,6 +17,3 @@ This folder contains the following study materials:
 * [088 Building a Reusable API Wrapper Class.md](./088%20Building%20a%20Reusable%20API%20Wrapper%20Class.md)
 * [089 Implementing a Real-time Search Dashboard.md](./089%20Implementing%20a%20Real-time%20Search%20Dashboard.md)
 * [090 Final Project A Full CRUD Application for Tasks.md](./090%20Final%20Project%20A%20Full%20CRUD%20Application%20for%20Tasks.md)
-
----
-*Last updated by Auto-Indexer*
