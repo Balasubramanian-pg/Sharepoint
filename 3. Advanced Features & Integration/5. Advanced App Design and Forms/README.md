@@ -33,6 +33,3 @@ This folder contains the following study materials:
 * [123 Phone Layout and Responsive Design.md](./123%20Phone%20Layout%20and%20Responsive%20Design.md)
 * [124 Mobile Friendly Controls.md](./124%20Mobile%20Friendly%20Controls.md)
 * [125 Performance and Mobile Installation.md](./125%20Performance%20and%20Mobile%20Installation.md)
-
----
-*Last updated by Auto-Indexer*
