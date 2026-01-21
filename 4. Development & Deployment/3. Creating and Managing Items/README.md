@@ -17,6 +17,3 @@ This folder contains the following study materials:
 * [043 Working with Multi-Choice Fields.md](./043%20Working%20with%20Multi-Choice%20Fields.md)
 * [044 Updating Date Fields in ISO 8601 Format.md](./044%20Updating%20Date%20Fields%20in%20ISO%208601%20Format.md)
 * [045 Managing Yes-No Fields.md](./045%20Managing%20Yes-No%20Fields.md)
-
----
-*Last updated by Auto-Indexer*
