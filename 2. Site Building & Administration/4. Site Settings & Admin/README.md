@@ -18,6 +18,3 @@ This folder contains the following study materials:
 * [28 Multilingual User Experience.md](./28%20Multilingual%20User%20Experience.md)
 * [29 Site Collection vs Site Features.md](./29%20Site%20Collection%20vs%20Site%20Features.md)
 * [30 Activating and Deactivating Features.md](./30%20Activating%20and%20Deactivating%20Features.md)
-
----
-*Last updated by Auto-Indexer*
