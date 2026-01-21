@@ -19,4 +19,4 @@ This folder contains the following study materials:
 * [015 Exploring __metadata and Object Types.md](./015%20Exploring%20__metadata%20and%20Object%20Types.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
