@@ -24,4 +24,4 @@ This folder contains the following study materials:
 * [55 Site Template Strategy and Governance.md](./55%20Site%20Template%20Strategy%20and%20Governance.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
