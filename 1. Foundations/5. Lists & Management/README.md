@@ -10,6 +10,3 @@ This folder contains the following study materials:
 * [41 Quick Edit Mode.md](./41%20Quick%20Edit%20Mode.md)
 * [42 List Views.md](./42%20List%20Views.md)
 * [43 Filtering Grouping Sorting.md](./43%20Filtering%20Grouping%20Sorting.md)
-
----
-*Last updated by Auto-Indexer*
