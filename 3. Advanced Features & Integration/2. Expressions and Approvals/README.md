@@ -29,4 +29,4 @@ This folder contains the following study materials:
 * [50. Complex Conditional Logic.md](./50.%20Complex%20Conditional%20Logic.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
