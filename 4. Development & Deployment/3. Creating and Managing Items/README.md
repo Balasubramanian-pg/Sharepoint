@@ -19,4 +19,4 @@ This folder contains the following study materials:
 * [045 Managing Yes-No Fields.md](./045%20Managing%20Yes-No%20Fields.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
