@@ -9,4 +9,4 @@ This folder contains the following study materials:
 * [10 SharePoint Terminology Glossary.md](./10%20SharePoint%20Terminology%20Glossary.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
