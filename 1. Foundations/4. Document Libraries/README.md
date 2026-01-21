@@ -11,6 +11,3 @@ This folder contains the following study materials:
 * [34 Co Authoring Real Time Collaboration.md](./34%20Co%20Authoring%20Real%20Time%20Collaboration.md)
 * [35 Document Library Views.md](./35%20Document%20Library%20Views.md)
 * [36 Folders vs Metadata Organization.md](./36%20Folders%20vs%20Metadata%20Organization.md)
-
----
-*Last updated by Auto-Indexer*
