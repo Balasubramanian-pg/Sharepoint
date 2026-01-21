@@ -10,4 +10,4 @@ This folder contains the following study materials:
 * [49 Metadata Strategy.md](./49%20Metadata%20Strategy.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
