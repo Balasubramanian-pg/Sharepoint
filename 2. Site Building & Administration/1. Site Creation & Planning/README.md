@@ -7,4 +7,4 @@ This folder contains the following study materials:
 * [03 Site Planning Considerations.md](./03%20Site%20Planning%20Considerations.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
