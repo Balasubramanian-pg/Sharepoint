@@ -17,6 +17,3 @@ This folder contains the following study materials:
 * [013 Identifying the Current User via API.md](./013%20Identifying%20the%20Current%20User%20via%20API.md)
 * [014 Understanding the d Property and Response Wrapping.md](./014%20Understanding%20the%20d%20Property%20and%20Response%20Wrapping.md)
 * [015 Exploring __metadata and Object Types.md](./015%20Exploring%20__metadata%20and%20Object%20Types.md)
-
----
-*Last updated by Auto-Indexer*
