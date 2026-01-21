@@ -17,6 +17,3 @@ This folder contains the following study materials:
 * [65 Logo Best Practices and Guidelines.md](./65%20Logo%20Best%20Practices%20and%20Guidelines.md)
 * [84 Theme Templates and Approval Process.md](./84%20Theme%20Templates%20and%20Approval%20Process.md)
 * [85 Brand Audit and Updates.md](./85%20Brand%20Audit%20and%20Updates.md)
-
----
-*Last updated by Auto-Indexer*
