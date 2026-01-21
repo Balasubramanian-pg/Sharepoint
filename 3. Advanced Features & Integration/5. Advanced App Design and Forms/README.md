@@ -35,4 +35,4 @@ This folder contains the following study materials:
 * [125 Performance and Mobile Installation.md](./125%20Performance%20and%20Mobile%20Installation.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
