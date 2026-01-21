@@ -29,4 +29,4 @@ This folder contains the following study materials:
 * [9. Accessing Power Automate from SharePoint.md](./9.%20Accessing%20Power%20Automate%20from%20SharePoint.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
