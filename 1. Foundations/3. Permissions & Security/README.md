@@ -14,4 +14,4 @@ This folder contains the following study materials:
 * [28 Guest Access and External Sharing.md](./28%20Guest%20Access%20and%20External%20Sharing.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
