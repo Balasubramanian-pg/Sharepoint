@@ -19,4 +19,4 @@ This folder contains the following study materials:
 * [85 Brand Audit and Updates.md](./85%20Brand%20Audit%20and%20Updates.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
