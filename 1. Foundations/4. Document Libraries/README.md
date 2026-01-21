@@ -13,4 +13,4 @@ This folder contains the following study materials:
 * [36 Folders vs Metadata Organization.md](./36%20Folders%20vs%20Metadata%20Organization.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
