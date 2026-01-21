@@ -23,4 +23,4 @@ This folder contains the following study materials:
 * [99 Information Management Policies.md](./99%20Information%20Management%20Policies.md)
 
 ---
-*Last updated by Auto-Indexer on 2026*
+*Last updated by Auto-Indexer*
